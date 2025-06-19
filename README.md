@@ -45,6 +45,11 @@ I am always open to discussing new ideas, collaborating on conceptual projects, 
 * **Email:** rijal028official@gmail.com
 * **PitchHut:** You can also find my projects featured on [PitchHut](https://pitchhut.com/).
 
+### 🚀 Opportunities I'm Seeking
+
+I am seeking a remote role as a **Conceptual Architect, Security Strategist, or Technical Concept Developer.** My ideal position involves analyzing complex systems, designing proactive defense frameworks, and translating high-level ideas into clear architectural blueprints. I am open to **full-time, part-time, or contract-based collaborations** with forward-thinking teams, particularly those working on challenges in cybersecurity and AI safety.
+
+
 <br>
 
 ---
@@ -96,3 +101,8 @@ Saya selalu terbuka untuk mendiskusikan ide-ide baru, berkolaborasi dalam proyek
 * **LinkedIn:** [linkedin.com/in/rijal-s-7309a9284]
 * **Email:** rijal028official@gmail.com
 * **PitchHut:** Anda juga bisa menemukan proyek saya di [PitchHut](https://pitchhut.com/).
+
+### 🚀 Peluang yang Saya Cari
+
+Saya mencari peran jarak jauh sebagai **Arsitek Konseptual, Ahli Strategi Keamanan, atau Pengembang Konsep Teknis.** Jabatan ideal saya meliputi analisis sistem yang kompleks, perancangan kerangka pertahanan proaktif, dan penerjemahan ide tingkat tinggi ke dalam cetak biru arsitektur yang jelas. Saya terbuka untuk **kolaborasi penuh waktu, paruh waktu, atau berbasis kontrak** dengan tim yang berpikiran maju, khususnya mereka yang menangani tantangan dalam keamanan siber dan keselamatan AI.
+
