@@ -25,7 +25,7 @@ Here are the primary frameworks I have developed. They represent my approach to 
 *A conceptual defense architecture against the manipulation of visual media by generative AI (deepfakes). It focuses on proactive, layered defenses embedded into media at the point of creation.*
 
 * **[View the Concept (English Version)]**(https://github.com/rijal028/Adaptive-Web-Concept-Hub)
-* **[Lihat Konsep (Versi Indonesia)]**(https://github.com/rijal028/Adaptive-Spider-Web-Concept-INA)
+* **[Lihat Konsep (Versi Indonesia)]**(https://github.com/rijal028/Adaptive-Web-Concept-Hub-INA.git)
 
 *
 
